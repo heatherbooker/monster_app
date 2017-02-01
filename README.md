@@ -2,6 +2,8 @@
 
 ### a project by [Suhui](https://github.com/suhuiii) & [Stephanie](https://github.com/steph-rage) & me!
 
+*[check it out in action!](http://bit.ly/2jZUf6G)*
+
 TO USE:
 open android studio
 from first menu, select check out project from version control
